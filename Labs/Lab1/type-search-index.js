@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"AddFromKbd"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"Person"},{"p":"<Unnamed>","l":"Power"},{"l":"所有类和接口","u":"allclasses-index.html","k":"18"}];updateSearchResults();
