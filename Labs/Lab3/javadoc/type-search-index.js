@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"shapes","l":"AbstractShape"},{"p":"shapes","l":"Circle"},{"p":"shapes","l":"Point2D"},{"p":"shapes","l":"Rectangle"},{"p":"shapes","l":"Shape","k":"10"},{"p":"shapes","l":"Triangle"},{"l":"所有类和接口","u":"allclasses-index.html","k":"18"}];updateSearchResults();
